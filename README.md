@@ -1,7 +1,6 @@
 Store-To-Go
 ===========
 
-
 <p><strong>Store to go offers a fast deployable, fully functional, easily configurable and customisable online eCommerce store for a windows server platform.<br><br>Built utilising a wide range of open source projects and amalgamated into one out-of-the box solution and released under the MIT license.</strong></p>
 
 <h2>Included Features</h2>
@@ -9,16 +8,15 @@ Store-To-Go
 
 <h2>Installation</h2>
 
-Upload the contents of this folder (as is) to the <root> Directory of your server.
-Make sure that the <shop> Directory (ONLY) has Read & Write permissions set for IIS_IUSRS.
-Make sure that the File <shop/includes/cfg.asp> has Read & Write permissions set for IIS_IUSRS.
-If you can not change the permissions yourself then contact your server support Admin and request these changes.
-
+Upload the contents of this folder (as is) to the <root> Directory of your server.</br>
+Make sure that the <shop> Directory (ONLY) has Read & Write permissions set for IIS_IUSRS.</br>
+Make sure that the File <shop/includes/cfg.asp> has Read & Write permissions set for IIS_IUSRS.</br>
+If you can not change the permissions yourself then contact your server support Admin and request these changes.</br>
 Once installed visit the Admin login page at http:YourDomain.com/shop/includes/admin/login.asp.
 
 Login using the following details:
 
-User = pleasechangethis
+User = pleasechangethis</br>
 pass = pleasechangethis
 
 And 'Make Sure You Change Them' :)
