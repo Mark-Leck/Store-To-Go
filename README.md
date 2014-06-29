@@ -10,9 +10,9 @@ Store-To-Go
 
 <strong>Upload the contents of this folder (as is) to the root Directory of your server.</strong>
 
-<strong>Make sure that the shop Directory (ONLY) has Read & Write permissions set for IIS_IUSRS.</strong>
+<strong>Make sure that the</strong> shop <strong>Directory (ONLY) has Read & Write permissions set for IIS_IUSRS.</strong>
 
-<strong>Make sure that the File shop/includes/cfg.asp has Read & Write permissions set for IIS_IUSRS.</strong>
+<strong>Make sure that the File</strong> shop/includes/cfg.asp <strong>has Read & Write permissions set for IIS_IUSRS.</strong>
 
 If you can not change the permissions yourself then contact your server support Admin and request these changes.
 
