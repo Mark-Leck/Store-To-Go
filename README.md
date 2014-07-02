@@ -31,5 +31,9 @@ pass = pleasechangethis
 
 Now set about configuring your new online store using Store To Go.
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/master
 
 <p><i>Whilst this software is free to use and distribute it comes with no guarantees or support. Additional support, setup or customisation services are available for a small charge, should you require any further details on these services then feel free to <a href='mailto:markpleck@gmail.com'><u>email</u></a> me.</i></p>
