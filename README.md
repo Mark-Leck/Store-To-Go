@@ -1,6 +1,10 @@
 Store-To-Go
 ===========
 
+<a href='http://storetogo.net'>View Demo Site</a><br>
+<i>Demo Admin Login:</i><br>
+User: demouser<br>
+Pass: demouser
 <p><strong>Store to go offers a fast deployable, fully functional, easily configurable and customisable online eCommerce store for a windows server platform.<br><br>Built utilising a wide range of open source projects and amalgamated into one out-of-the box solution and released under the MIT license.</strong></p>
 
 <h2>Included Features</h2>
@@ -27,6 +31,9 @@ pass = pleasechangethis
 
 Now set about configuring your new online store using Store To Go.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 
 <p><i>Whilst this software is free to use and distribute it comes with no guarantees or support. Additional support, setup or customisation services are available for a small charge, should you require any further details on these services then feel free to <a href='mailto:markpleck@gmail.com'><u>email</u></a> me.</i></p>
