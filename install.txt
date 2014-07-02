@@ -1,0 +1,21 @@
+Store To Go - Install intructions:
+
+Upload the contents of this folder (as is) to the <root> Directory of your server.
+Make sure that the <shop> Directory (ONLY) has Read & Write permissions set for IIS_IUSRS.
+Make sure that the File <shop/includes/cfg.asp> has Read & Write permissions set for IIS_IUSRS.
+If you can not change the permissions yourself then contact your server support Admin and request these changes.
+
+Once installed visit the Admin login page at http:YourDomain.com/shop/includes/admin/login.asp.
+
+Login using the following details:
+
+User = pleasechangethis
+pass = pleasechangethis
+
+And 'Make Sure You Change Them' :)
+
+Now set about configuring your new online store using Store To Go
+
+To configure the contact form go to contact/send_form_email.php and insert your 
+email address (to receive to) at the top of the file < NOTE: The contact form requires 
+.php to be installed and configured correctly on your server in order to work.
