@@ -27,6 +27,5 @@ pass = pleasechangethis
 
 Now set about configuring your new online store using Store To Go.
 
-<strong>Note:</strong> For the time being parent paths may have to be enabled, it's on my to-do list to fine toothcomb the source and use virtual paths instead.
 
 <p><i>Whilst this software is free to use and distribute it comes with no guarantees or support. Additional support, setup or customisation services are available for a small charge, should you require any further details on these services then feel free to <a href='mailto:markpleck@gmail.com'><u>email</u></a> me.</i></p>
